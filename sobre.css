@@ -1,0 +1,16 @@
+.box{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+.box-logo
+{ 
+    width: 1350px;
+    height: 1860px;
+    display: grid;
+    box-shadow: #2C3140;
+    border-radius: 30px;
+}
